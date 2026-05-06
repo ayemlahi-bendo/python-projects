@@ -1,1 +1,2 @@
-# python-projects
+This is where my Python Projects would be...
+# If I remembered where I put em!
